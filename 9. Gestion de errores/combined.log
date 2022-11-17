@@ -1,0 +1,10 @@
+{"level":"info","message":"Estoy saliendo por pantalla","service":"user-service"}
+{"level":"info","message":"Estoy saliendo por pantalla","service":"user-service"}
+{"level":"info","message":"Estoy saliendo por pantalla","service":"user-service"}
+{"level":"warn","message":"Mensaje de advertencia","service":"user-service"}
+{"level":"info","message":"Estoy saliendo por pantalla","service":"user-service"}
+{"level":"warn","message":"Mensaje de advertencia","service":"user-service"}
+{"level":"debug","message":"Mensaje de debug","service":"user-service"}
+{"level":"info","message":"Estoy saliendo por pantalla","service":"user-service"}
+{"level":"warn","message":"Mensaje de advertencia","service":"user-service"}
+{"level":"debug","message":"Mensaje de debug","service":"user-service"}
